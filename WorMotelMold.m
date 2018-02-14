@@ -2,24 +2,15 @@
 % 3D printed negative mold for WorMotel 
 % Matt Churgin, Chris Fang-Yen et al.
 % from Churgin et al. eLife 2017 paper
-% clear all
 
-% xwells = 24;
-% ywells = 16;
 docornercuts = 0;
 
 xwells = 20;
 ywells = 12;
 
-% xwells = 8;
-% ywells = 6;
- 
-% xwells = 4;
-% ywells = 3;
-
 % COMPACT BORDERS
 
-textstring = '130305-240WELL-ARMS';  
+textstring = '240WELL';  
 % no spaces.  should be similar to filename of .m file
 
 steps_per_mm = 10;
